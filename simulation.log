@@ -1,0 +1,17 @@
+[34m[STATUS] Clock 0: Queue=888, Servers=10, Processed=0[0m
+[32m[SCALE UP] Clock 100: Added server. Now 11 servers.[0m
+[34m[STATUS] Clock 1000: Queue=700, Servers=11, Processed=378[0m
+[31m[SCALE DOWN] Clock 1664: Removed server. Now 10 servers.[0m
+[31m[SCALE DOWN] Clock 1978: Removed server. Now 9 servers.[0m
+[34m[STATUS] Clock 2000: Queue=497, Servers=9, Processed=764[0m
+[31m[SCALE DOWN] Clock 2254: Removed server. Now 8 servers.[0m
+[31m[SCALE DOWN] Clock 2788: Removed server. Now 7 servers.[0m
+[34m[STATUS] Clock 3000: Queue=385, Servers=7, Processed=1068[0m
+[31m[SCALE DOWN] Clock 3486: Removed server. Now 6 servers.[0m
+[34m[STATUS] Clock 4000: Queue=337, Servers=6, Processed=1301[0m
+[31m[SCALE DOWN] Clock 4677: Removed server. Now 5 servers.[0m
+[34m[STATUS] Clock 5000: Queue=298, Servers=5, Processed=1517[0m
+[34m[STATUS] Clock 6000: Queue=301, Servers=5, Processed=1693[0m
+[34m[STATUS] Clock 7000: Queue=299, Servers=5, Processed=1879[0m
+[34m[STATUS] Clock 8000: Queue=292, Servers=5, Processed=2065[0m
+[34m[STATUS] Clock 9000: Queue=301, Servers=5, Processed=2242[0m
